@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/activity_detail_poltek.xml" value="0.1796875" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/activity_detail_ptk.xml" value="0.1796875" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/activity_detail_ptn.xml" value="0.1" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/activity_event.xml" value="0.1" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/activity_event_olimpiade.xml" value="0.1796875" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/activity_home.xml" value="0.1796875" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/activity_info.xml" value="0.1796875" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/activity_poltek.xml" value="0.1796875" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/activity_ptkactivity.xml" value="0.1" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/fragment_event.xml" value="0.1796875" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/fragment_event2.xml" value="0.1796875" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/fragment_event3.xml" value="0.1796875" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/fragment_fav.xml" value="0.1" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/fragment_info.xml" value="0.1" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/fragment_kampus.xml" value="0.1" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/fragment_recom.xml" value="0.1796875" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/list_poltek.xml" value="0.1796875" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/list_ptk.xml" value="0.1796875" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/list_ptn.xml" value="0.1" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/list_pts.xml" value="0.1796875" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/1KAMPUS/MOBILE/NgampusRelease/app/src/main/res/menu/nav_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NgampusRelease/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NgampusRelease/app/src/main/res/drawable/ic_notifications.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NgampusRelease/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NgampusRelease/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NgampusRelease/app/src/main/res/layout/activity_ptnactivity.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NgampusRelease/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NgampusRelease/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NgampusRelease/app/src/main/res/layout/fragment_kampus.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NgampusRelease/app/src/main/res/layout/fragment_ptn.xml" value="0.240625" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NgampusRelease/app/src/main/res/layout/list_ptn.xml" value="0.34439834024896265" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NgampusRelease/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NgampusRelease/app/src/main/res/menu/nav_menu.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/drawable/ic_notifications.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/activity_detail_poltek.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/activity_detail_ptk.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/activity_detail_ptn.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/activity_detail_pts.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/activity_event.xml" value="0.4004149377593361" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/activity_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/activity_info.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/activity_poltek.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/activity_ptkactivity.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/activity_ptnactivity.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/activity_ptsactivity.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/activity_unimal_loc.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/fragment_fav.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/fragment_info.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/fragment_kampus.xml" value="0.21875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/fragment_recom.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/fragment_unimal_map.xml" value="0.165625" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/fragment_unimal_maps.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/list_poltek.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/list_ptk.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/list_ptn.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/list_pts.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/layout/nav_header.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/menu/nav_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/mipmap-anydpi-v26/ic_campus.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/mipmap-anydpi-v26/ic_campus_round.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/DELL/Desktop/NgampusRelease/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19583333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
